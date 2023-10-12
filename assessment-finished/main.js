@@ -14,7 +14,7 @@ const insertY = ['the soup kitchen', 'Disneyland', 'the White House'];
 const insertZ = ['spontaneously combusted', 'melted into a puddle on the sidewalk', 'turned into a slug and crawled away'];
 */
 
-const storyText = '気温 華氏40度で外は寒かった。 :insertX: は出かけた。 :insertY: に着いた。 :insertZ: 体重110ポンドの :insertX: は驚いたが、 Bob は驚かなかった。 :insertY: ではよくあることだった。';
+const storyText = '気温 華氏40度で外は寒かった。 :insertx: は出かけた。 :inserty: に着いた。 :insertz: 体重110ポンドの :insertx: は驚いたが、 Bob は驚かなかった。 :inserty: ではよくあることだった。';
 const insertX = ['君','知らない人','私'];
 const insertY = ['学校','知らない街','夢の中'];
 const insertZ = ['混乱していた。','混雑していた。','寝ていた。'];
