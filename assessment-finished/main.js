@@ -12,6 +12,8 @@ const insertX = ['Willy the Goblin', 'Big Daddy', 'Father Christmas'];
 const insertY = ['the soup kitchen', 'Disneyland', 'the White House'];
 const insertZ = ['spontaneously combusted', 'melted into a puddle on the sidewalk', 'turned into a slug and crawled away'];
 
+const storyTextj='気温 華氏40度で外は寒かった。Tsudaは出かけた。 :insertyj: に着いた。:insertzj:
+
 randomize.addEventListener('click', result);
 
 function result() {
